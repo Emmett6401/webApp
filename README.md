@@ -81,6 +81,9 @@ python app.py
 ## 실행 화면
 ![image](https://github.com/user-attachments/assets/18140a07-c51d-492b-88c0-797a7460a907)
 
+## style 적용 화면 
+<img width="612" alt="image" src="https://github.com/user-attachments/assets/2ab7df3b-9387-426c-b786-dd5d30784af2" />
+
 
 
 
