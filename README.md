@@ -78,6 +78,10 @@ python app.py
 브라우저에서 http://127.0.0.1:5000로 접속하여 이름과 전화번호를 입력하고 저장할 수 있습니다.    
 이제 Flask 애플리케이션이 완성되었습니다!    
 
+## 실행 화면
+![image](https://github.com/user-attachments/assets/18140a07-c51d-492b-88c0-797a7460a907)
+
+
 
 
 
