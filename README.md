@@ -84,7 +84,10 @@ python app.py
 ## style 적용 화면 
 <img width="612" alt="image" src="https://github.com/user-attachments/assets/2ab7df3b-9387-426c-b786-dd5d30784af2" />
 
-
+## 이번에는 FlaskAPP의 기본 디렉터리 구조를 이용 하는 방법
+1. static 폴더를 만들고 디렉터리 구조를 완성한다.
+2. 기존의 index.html에 있던 style을 별도의 style.css로 분리 한다.
+   <img width="677" alt="image" src="https://github.com/user-attachments/assets/f614a890-d8e1-46e8-9a00-5dc109d9d12a" />
 
 
 
