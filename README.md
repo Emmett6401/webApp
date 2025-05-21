@@ -86,8 +86,10 @@ python app.py
 
 ## 이번에는 FlaskAPP의 기본 디렉터리 구조를 이용 하는 방법
 1. static 폴더를 만들고 디렉터리 구조를 완성한다.
+   . static 폴더는 css, js, images같은 정적인(변동이 없는) 자원들을 갖고 있다.     
 2. 기존의 index.html에 있던 style을 별도의 style.css로 분리 한다.
-   <img width="677" alt="image" src="https://github.com/user-attachments/assets/f614a890-d8e1-46e8-9a00-5dc109d9d12a" />
+<img width="677" alt="image" src="https://github.com/user-attachments/assets/1cb908b8-df23-4262-9a66-5aa773f52f8f" />
+   
 
 
 
